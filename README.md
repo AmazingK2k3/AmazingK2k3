@@ -5,7 +5,7 @@
 ## I'm a Student
 
 - 🔭 I’m currently working on a python project
-- 🌱 I’m currently learning a lot right now
+- 🌱 I’m currently learning everything that gets me curious.
 - ⚡ Fun fact: I love to Sketch and Solve Rubik's cubes
 
 ### Connect with me:
