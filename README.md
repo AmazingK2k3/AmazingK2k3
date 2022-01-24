@@ -36,7 +36,7 @@
 ---
 
 
-[instagram]: https://www.instagram.com/kaushik_srivats14/
+[instagram]: https://www.instagram.com/kaushik._.srivatsan
 [linkedin]: https://www.linkedin.com/in/kaushik-srivatsan
 [gmail]: amazingk2003@gmail.com
 
