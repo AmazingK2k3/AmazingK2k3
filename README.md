@@ -2,9 +2,9 @@
 
 <br>
 
-## I'm a Student
+## I'm a University Student
 
-- 🔭 I’m currently working on a python project
+- 🔭 I’m currently am pursing Computing and Data Science
 - 🌱 I’m currently learning everything that gets me curious:)
 - ⚡ Fun fact: I love to Sketch and Solve Rubik's cubes
 
