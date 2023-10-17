@@ -1,18 +1,18 @@
-### Hi there, I'm Kaushik - aka [AmazingK2k3]👋
+### Hi there, I'm Kaushik Srivatsan - aka [AmazingK2k3]👋
 
 <br>
 
 ## I'm a University Student
 
-- 🔭 I’m currently am pursing Computing and Data Science
+- 🔭 I’m currently pursuing a degree in Computing and Data Science
 - 🌱 I’m currently learning everything that gets me curious:)
-- ⚡ Fun fact: I love to Sketch and Solve Rubik's cubes
+- ⚡ Fun fact: I love to Sketch and Solve Rubik's cubes. Currently keenly interested in Machine Learning and Robotics.
 
 ### Connect with me:
 
-[<img align="left" alt="AmazingK2k3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AmazingK2k3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AmazingK2k3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+* [Linkedin](http://www.linkedin.com/in/kaushik-srivatsan) 
+* [Instagram](https://www.instagram.com/sk_tryingdesign/)
+* [Gmail](kaushiksrivatsan03@gmail.com) 
 
 <br />
 
@@ -36,7 +36,5 @@
 ---
 
 
-[instagram]: https://www.instagram.com/kaushik._.srivatsan
-[linkedin]: https://www.linkedin.com/in/kaushik-srivatsan
-[gmail]: amazingk2003@gmail.com
+
 
