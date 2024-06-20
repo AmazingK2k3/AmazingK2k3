@@ -16,7 +16,7 @@ Currently, I am learning: Strengthening the Fundamentals of Machine Learning, De
 - Behance: [kaushiksrivats](https://www.behance.net/kaushiksrivats)
 - Dribbble: [amazing](https://dribbble.com/amazingk)
 - Instagram: [sk_trying_design](https://www.instagram.com/sk_tryingdesign/)
-- 
+  
 
 
 ## 🚀 Languages, Software and Tools:
