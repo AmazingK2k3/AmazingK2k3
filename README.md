@@ -57,7 +57,7 @@ Currently, I am learning: Strengthening the Fundamentals of Machine Learning, De
 
 ## 📊 My Github Stats
 
-<p align = "center"><img alt="Kaushik's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Amazingk2k3&theme=vue-dark&hide_border=true" /></p>
+<p align = "center"><img alt="Kaushik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amazingk2k3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></p>
 <br/>
 <p align = "center">
   <img alt="Kaushik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amazingk2k3&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
