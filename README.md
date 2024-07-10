@@ -1,4 +1,4 @@
-# Hi, I'm Kaushik Srivatsan 👋
+# Hi, I'm Kaushik 👋
 
 ###  About me:
 Hello! I'm Kaushik, a  fourth-year CS student from India, who wants to research, understand the first principles and solve fundamental problems using tech that can potentially make huge impacts in the world.
