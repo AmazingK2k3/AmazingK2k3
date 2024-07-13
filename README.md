@@ -11,7 +11,7 @@ Currently, I am learning: Strengthening the Fundamentals of Machine Learning, De
 ### Important Links:
 - Portfolio: Under Works!
 - Mail: [Gmail](kaushiksrivatsan03@gmail.com)
-- Resume: [Kaushik_CV](https://resume.cdhiraj40.dev)
+- Resume: [Kaushik_CV](https://docs.google.com/document/d/1bK6rg6eprg2qZWLLNEqUJbXea2VDDhfz642-sAY20c0/edit?usp=sharing)
 - Linkedin: [kaushik_srivatsan](http://www.linkedin.com/in/kaushik-srivatsan)
 - Behance: [kaushiksrivats](https://www.behance.net/kaushiksrivats)
 - Dribbble: [amazing](https://dribbble.com/amazingk)
