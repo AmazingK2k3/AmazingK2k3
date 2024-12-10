@@ -2,7 +2,7 @@
 
 ###  About me:
 Hello! I'm Kaushik, a  fourth-year CS student from India, who wants to research, understand the first principles and solve fundamental problems using tech that can potentially make huge impacts in the world.
-I usually work on **Data Analysis**, **Deep Learning, Machine Learning**, and **Data Analysis**
+I usually work on **Deep Learning, Machine Learning**, and **Data Analysis**
 
 While I have been in GitHub for quite a long time, I rather have been inactive. I am currently looking to build more projects, develop skill sets and soon venture into the open-source world!
 
