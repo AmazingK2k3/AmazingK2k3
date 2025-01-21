@@ -1,14 +1,14 @@
 # Hi, I'm Kaushik 👋
 
 ###  About me:
-Hello! I'm Kaushik, a  fourth-year CS student from India, who wants to research, understand the first principles and solve fundamental problems using tech that can potentially make huge impacts in the world.
-I usually work on **Deep Learning, Machine Learning**, and **Data Analysis**
+a  fourth-year CS student from India, who wants to research, understand the first principles and solve fundamental problems using tech that can potentially make huge impacts in the world.
+I usually work on DL, ML, and Data Analytics.
 
 While I have been in GitHub for quite a long time, I rather have been inactive. I am currently looking to build more projects, develop skill sets and soon venture into the open-source world!
 
-I am currently learning Computer Vision, NLP, and Reinforcement Learning. My primary research topic is Graph Neural Networks.  My current pursuit is digging deep and understanding the fundamentals of how different models learn, work, and understand. I want to get a clear understanding of how Neural Net models learn and how we can use those insights to solve more problems.
+I am currently learning Computer Vision, NLP, and Reinforcement Learning. My primary research topic is Graph Neural Networks.  My current pursuit is digging deep and understanding how different models learn, work, and understand. I want to know how Neural Net models learn and how we can use those insights to solve more problems. Currently just reading through papers and breaking them down.
 
-### Important Links:
+### Links:
 - Portfolio: Under Works!
 - Mail: [Gmail](kaushiksrivatsan03@gmail.com)
 - Resume: [Kaushik_CV](https://docs.google.com/document/d/1bK6rg6eprg2qZWLLNEqUJbXea2VDDhfz642-sAY20c0/edit?usp=sharing)
